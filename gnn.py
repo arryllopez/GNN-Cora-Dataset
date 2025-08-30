@@ -5,3 +5,5 @@ dataset = Planetoid(root='/tmp/Cora', name='Cora')
 
 #accessing the first graph object
 data = dataset[0]
+
+#building a graph neural network (GCN) 
